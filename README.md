@@ -1,6 +1,6 @@
 # CSE370_LabProject_G11
 Project: Local Repair & Maintenance Service Directory
-Technology: HTML, CSS, JavaScript, PHP, MySQL
+Technology: TailwindCSS, ReactJS, PHP, MySQL
 Authentication: None (no login or registration)
 
 1. Browse Service Provider Directory – Display all available repair service providers with their business name, contact information, location and estimated prices.
